@@ -63,20 +63,11 @@ A simple and responsive recipe website with an easy-to-use interface.
 
 Technologies: HTML5 • CSS3
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sunilsharma2709&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Sunil Sharma GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsharma2709&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Sunil Sharma Top Languages"
-    width="49%"
-  />
-</p>
+![Sunil Sharma GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilsharma2709&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsharma2709&layout=compact)
 
 ## 🔥 GitHub Streak
 
