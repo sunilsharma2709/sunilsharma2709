@@ -69,12 +69,16 @@ Technologies: HTML5 • CSS3
 
 🔥 GitHub Streak
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sunilsharma2709&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=sunilsharma2709&theme=tokyonight&hide_border=false&border_radius=10"
+    alt="Sunil Sharma GitHub Streak"
+    width="700"
+  />
 </p>
-🎯 2026 Goals
+
+
+🎯 2026 Goals 
 🚀 Build more real-world Full Stack projects
 ⚛️ Improve React.js skills
 🟢 Master Node.js & Express.js
