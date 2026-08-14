@@ -37,6 +37,8 @@ I work primarily with the MERN Stack and enjoy developing both frontend interfac
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
 
 🚀 Featured Projects
+
+
 🛒 BigBasket App
 
 A full-stack grocery shopping application developed using modern web technologies.
@@ -67,13 +69,12 @@ Technologies: HTML5 • CSS3
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilsharma2709&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sunilsharma2709&theme=tokyonight&hide_border=false&border_radius=10"
-    alt="Sunil Sharma GitHub Streak"
-    width="700"
+  <img
+    src="https://streak-stats.demolab.com?user=sunilsharma2709&theme=tokyonight&hide_border=true&border_radius=10&card_width=700"
+    alt="GitHub Streak Stats"
   />
 </p>
 
