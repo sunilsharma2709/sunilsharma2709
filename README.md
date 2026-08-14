@@ -63,12 +63,17 @@ Technologies: HTML5 • CSS3
 
 📊 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sunilsharma2709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsharma2709&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sunilsharma2709&show_icons=true&theme=tokyonight&hide_border=true" alt="Sunil's GitHub Stats" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilsharma2709&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
 🔥 GitHub Streak
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=sunilsharma2709&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sunilsharma2709&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 🎯 2026 Goals
 🚀 Build more real-world Full Stack projects
 ⚛️ Improve React.js skills
